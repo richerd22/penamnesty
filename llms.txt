@@ -1,0 +1,21 @@
+# The Pens Went Away: Pharma Swag, 1990-2008
+
+> Why drug reps gave doctors branded pens, mugs and plush toys, how a 2009 code and Massachusetts law banned them, and what pharma swag sells for now.
+
+A cited cold.fyi longread (179 sources) on pharmaceutical promotional merchandise: origins, the 1990s-2008 peak, the PhRMA Code ban effective January 1, 2009, Massachusetts' binding law (Chapter 305 of the Acts of 2008), OxyContin swag, the resale market and meme culture, plus a directory of 440 sourced items with evidence grades.
+
+## Pages
+- [The guide](https://penamnesty.cold.fyi/): full article with footnotes
+
+## Data
+- [directory.csv](https://penamnesty.cold.fyi/directory.csv)
+- [directory.json](https://penamnesty.cold.fyi/directory.json)
+
+## Key facts
+- Why did drug reps stop giving out pens? PhRMA's revised voluntary code, adopted July 10, 2008, banned non-educational reminder items such as pens, notepads, mugs and clocks from January 1, 2009, with no minimum-value exception.
+- Is it illegal to give doctors branded pens in Massachusetts? Yes. Under Chapter 305 of the Acts of 2008 (M.G.L. c.111N) and DPH regulation 105 CMR 970.008, manufacturers may not give practitioners complimentary items such as pens, coffee mugs or gift cards. Compliance was required from July 1, 2009, and fines run up to $5,000 per event.
+- How much are old pharmaceutical pens worth? Most sell cheaply: a six-pen lot sold for $12 and a Clarinex pen set for $25. Opioid brands do better; a sealed pair of OxyContin pens sold for $79.99. Higher figures you see online are usually asking prices, not sales.
+- What is the most expensive pharma swag for sale? In October 2026 the top asking prices we found were $450 for a 1993 Xanax desk flip chart, $355 for a Percocet/Percodan heat-change mug, $350 for an unused Xanax color-change mug and $345 for a Vicodin ES beach towel. We verified no sale above $200.
+- What promotional items did Purdue give out for OxyContin? A 2003 GAO report lists OxyContin fishing hats, stuffed plush toys, heat-activated coffee mugs, music CDs, luggage tags and pens with a dose-conversion chart. Purdue told reps to destroy remaining non-health items in May 2002.
+- What was the No Free Lunch pen amnesty? Doctors mailed their drug-company pens to No Free Lunch founder Bob Goodman, who mailed back No Free Lunch pens. Well over 1,000 pens had been turned in by March 2003.
+- Did Pfizer make an official Zoloft blob plush? We found no source confirming one. The only verified official blob merchandise is a two-sided promotional T-shirt dated 2001.
